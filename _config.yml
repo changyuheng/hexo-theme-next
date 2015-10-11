@@ -91,3 +91,12 @@ images: images
 
 # Theme version
 version: 0.4.5.1
+
+# Ⓒ from year
+since: 2005
+
+# CC: by,by-nc, by-nc-nd, by-nc-sa, by-nd, by-sa, zero
+creative_commons: by
+
+# Swiftype search engine
+swiftype_key: XDUg4UcRt8HPx1TzQvih
