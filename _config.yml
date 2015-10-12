@@ -111,5 +111,13 @@ social:
   GitHub: https://github.com/changyuheng
   LinkedIn: https://tw.linkedin.com/in/changyuheng
 
+# Facebook SDK
+facebook_sdk:
+  enable: true
+  app_id: 487280211453644
+  fb_admin: 1100626823
+  like_button: true
+  webmaster: true
+
 # Google Analytics
 google_analytics: UA-44162683-1
