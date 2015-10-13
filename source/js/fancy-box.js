@@ -4,6 +4,8 @@ $(document).ready(function() {
     var $image = $(this);
     var $imageWrapLink = $image.parent('a');
 
+    if ($image.hasClass('do-not-render')) return;
+
     if ($imageWrapLink.size() < 1) {
       $imageWrapLink = $image.wrap('<a href="' + this.getAttribute('src') + '"></a>').parent('a');
     }
